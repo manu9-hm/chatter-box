@@ -16,5 +16,4 @@ Skills:
 
 Real-time group chat implementation
 Profile photo management
-Image sharing and retrieval
-UI/UX design
+Image sharing 
