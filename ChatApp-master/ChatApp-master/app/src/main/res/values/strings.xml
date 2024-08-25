@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_sign_in_button">Sing in</string>
+    <string name="text_sing_up_button">Sing up</string>
+    <string name="text_view_register">Register</string>
+    <string name="hint_username">Username</string>
+    <string name="text_view_go_to_profile">Pick a profile photo (Optional)</string>
+    <string name="dialog_button_yes">Yes</string>
+    <string name="dialog_button_no">No</string>
+    <string name="collection_users">users_collection</string>
+    <string name="collection_messages">messages_collection</string>
+    <string name="send_button_text">Send</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="sing_out">Sign out</string>
+</resources>
